@@ -1,7 +1,5 @@
 # LiBRASIL: Tradutor de Libras
 
-![Capa do Projeto](https://i.imgur.com/example.png)  <!-- Substituir pela URL de uma imagem de capa -->
-
 **Trabalho de Conclusão de Curso (TCC) que visa quebrar barreiras de comunicação entre surdos e ouvintes através de um aplicativo Android para tradução da Língua Brasileira de Sinais (Libras).**
 
 ---
@@ -42,9 +40,6 @@ Esta funcionalidade transforma o smartphone em um intérprete de Libras em tempo
 - **Modelo TensorFlow Lite:** Um modelo de Machine Learning customizado e otimizado para dispositivos móveis, capaz de reconhecer 15 letras do alfabeto em Libras (A, B, C, D, E, I, L, M, N, O, R, S, U, V, W).
 - **Feedback Instantâneo:** Exibição da letra reconhecida e do nível de confiança da predição.
 
-| ![Captura de Gestos](https://i.imgur.com/example.png) |
-|:---:|
-| *Tela de reconhecimento de gestos em tempo real.* |
 
 ### 2. Transcrever Português (Texto para Libras)
 
@@ -55,9 +50,6 @@ Para a comunicação no sentido inverso, o usuário pode digitar uma palavra ou 
 - **Avatar 3D:** Um intérprete virtual que executa os sinais correspondentes ao texto inserido.
 - **Interface Otimizada:** O WebView que carrega o widget é gerenciado de forma inteligente para garantir performance e estabilidade.
 
-| ![Tradução para Libras](https://i.imgur.com/example.png) |
-|:---:|
-| *Tela de tradução de texto para sinais com o avatar do VLibras.* |
 
 ### 3. Biblioteca de Gestos
 
@@ -68,9 +60,6 @@ Um guia de referência completo para aprender e consultar os sinais do alfabeto 
 - **Imagens Ilustrativas:** Para as letras do alfabeto, imagens claras demonstram a forma correta de executar cada sinal.
 - **Navegação Intuitiva:** Um sistema de listas expansíveis (`Accordion`) facilita a exploração do conteúdo.
 
-| ![Biblioteca de Gestos](https://i.imgur.com/example.png) |
-|:---:|
-| *Biblioteca de gestos com categorias expansíveis.* |
 
 ## Tecnologias Utilizadas
 
@@ -191,7 +180,7 @@ Siga os passos abaixo para compilar e executar o projeto localmente.
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/seu-usuario/librasil.git
+   git clone https://github.com/mausoleo/librasil-desenvolvimento-mobile.git
    cd librasil
    ```
 
@@ -229,7 +218,6 @@ Este projeto foi idealizado e desenvolvido por um time de estudantes de Análise
 
 - **Leonardo Melo**
 - **Gabriel Gomes**
-- **João Gabriel**
 - **Paulo Henrique**
 
 ## Licença
