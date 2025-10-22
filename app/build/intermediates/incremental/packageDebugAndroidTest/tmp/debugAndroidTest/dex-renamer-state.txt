@@ -1,0 +1,7 @@
+#Mon Oct 06 16:35:59 BRT 2025
+base.1=D\:\\faculdade_v2\\03 - projeto_final\\Librasil_FINAL_COMPLETO\\Librasil\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\0\\classes.dex
+path.1=0/classes.dex
+base.0=D\:\\faculdade_v2\\03 - projeto_final\\Librasil_FINAL_COMPLETO\\Librasil\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeExtDexDebugAndroidTest\\classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex

@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Librasil</string>
+    
+    <!-- Splash Screen -->
+    <string name="app_subtitle">Um app de acessibilidade e inclusão social</string>
+    
+    <!-- Main Screen -->
+    <string name="main_title">LIBRASIL</string>
+    <string name="btn_translate_libras">Transcrever Libras</string>
+    <string name="btn_translate_portuguese">Transcrever Português</string>
+    
+    <!-- Info Screen -->
+    <string name="info_title">Sobre o Librasil</string>
+    <string name="info_description">O Librasil é um aplicativo de acessibilidade que permite a comunicação entre pessoas surdas e ouvintes através da tradução de Libras para texto e de texto/fala para Libras.</string>
+    <string name="info_gesture_title">Faça o seu gesto</string>
+    <string name="info_gesture_desc">Transcrever Libras</string>
+    <string name="info_text_title">Fale ou digite seu texto</string>
+    <string name="info_text_desc">Transcrever Português</string>
+    <string name="info_library_title">Busque termos e sinais</string>
+    <string name="info_library_desc">Biblioteca de gestos</string>
+    <string name="info_learn_title">Aprenda Libras</string>
+    <string name="info_learn_desc">Funcionalidade educacional</string>
+    
+    <!-- Gesture Capture Screen -->
+    <string name="gesture_title">Faça o seu gesto!</string>
+    <string name="gesture_result_label">Resultado:</string>
+    <string name="gesture_placeholder">Aguardando captura...</string>
+    <string name="btn_capture">Capturar</string>
+    
+    <!-- Text to Libras Screen -->
+    <string name="text_to_libras_title">Transcrição Libras</string>
+    <string name="text_input_hint">Digite ou fale o texto aqui...</string>
+    <string name="btn_translate">Traduzir</string>
+    <string name="btn_speak_audio">Falar o texto em áudio</string>
+    <string name="translation_loading">Traduzindo...</string>
+    
+    <!-- Library Screen -->
+    <string name="library_title">Biblioteca de gestos</string>
+    <string name="search_hint">Buscar gesto...</string>
+    
+    <!-- Common -->
+    <string name="back">Voltar</string>
+    <string name="info">Informações</string>
+    <string name="error_network">Erro de conexão. Verifique sua internet.</string>
+    <string name="error_generic">Ocorreu um erro. Tente novamente.</string>
+    <string name="permission_camera_required">Permissão de câmera necessária</string>
+    <string name="permission_audio_required">Permissão de áudio necessária</string>
+</resources>

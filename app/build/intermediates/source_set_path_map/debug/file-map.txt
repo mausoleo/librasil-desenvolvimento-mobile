@@ -1,0 +1,65 @@
+com.tcc.librasil.app-navigation-runtime-ktx-2.7.5-0 C:\Users\leome\.gradle\caches\transforms-3\01574101e2b769ba99f8b61a5072bd2b\transformed\navigation-runtime-ktx-2.7.5\res
+com.tcc.librasil.app-material-release-1 C:\Users\leome\.gradle\caches\transforms-3\037fddbe20742bbadf8b410f2425bbe8\transformed\material-release\res
+com.tcc.librasil.app-coil-base-2.5.0-2 C:\Users\leome\.gradle\caches\transforms-3\07b2bd27759c12f4406a004f453c9c1a\transformed\coil-base-2.5.0\res
+com.tcc.librasil.app-lifecycle-runtime-ktx-2.6.2-3 C:\Users\leome\.gradle\caches\transforms-3\0d5231eb255f98e4e5a1cd05a642803c\transformed\lifecycle-runtime-ktx-2.6.2\res
+com.tcc.librasil.app-ui-text-release-4 C:\Users\leome\.gradle\caches\transforms-3\2182f090c28de95244cfff81d0770e75\transformed\ui-text-release\res
+com.tcc.librasil.app-material-ripple-release-5 C:\Users\leome\.gradle\caches\transforms-3\21baef05696c37fa58597fe07a1b92a0\transformed\material-ripple-release\res
+com.tcc.librasil.app-core-1.12.0-6 C:\Users\leome\.gradle\caches\transforms-3\237491ebb933e1009380b0f06a3ea463\transformed\core-1.12.0\res
+com.tcc.librasil.app-lifecycle-viewmodel-savedstate-2.6.2-7 C:\Users\leome\.gradle\caches\transforms-3\254846036fcfb6ef67856c8252fc3f19\transformed\lifecycle-viewmodel-savedstate-2.6.2\res
+com.tcc.librasil.app-activity-ktx-1.8.0-8 C:\Users\leome\.gradle\caches\transforms-3\25c7db530945f4af676d377cf9fb8447\transformed\activity-ktx-1.8.0\res
+com.tcc.librasil.app-foundation-release-9 C:\Users\leome\.gradle\caches\transforms-3\25ed90e5876c0bb44489f87bd9ca5876\transformed\foundation-release\res
+com.tcc.librasil.app-animation-core-release-10 C:\Users\leome\.gradle\caches\transforms-3\32088831f615ba1a26dcc4f80f498b5b\transformed\animation-core-release\res
+com.tcc.librasil.app-ui-tooling-release-11 C:\Users\leome\.gradle\caches\transforms-3\334dc49098d94a91bbeb318933185373\transformed\ui-tooling-release\res
+com.tcc.librasil.app-material-icons-extended-release-12 C:\Users\leome\.gradle\caches\transforms-3\33fe58162327860fbf2abe3d839ab2b4\transformed\material-icons-extended-release\res
+com.tcc.librasil.app-camera-video-1.3.0-13 C:\Users\leome\.gradle\caches\transforms-3\3e96314bcb4c8e2b9e83646d840d91dd\transformed\camera-video-1.3.0\res
+com.tcc.librasil.app-material-icons-core-release-14 C:\Users\leome\.gradle\caches\transforms-3\43062aad75eec85d7f3eed313ccc47e4\transformed\material-icons-core-release\res
+com.tcc.librasil.app-activity-compose-1.8.0-15 C:\Users\leome\.gradle\caches\transforms-3\447d15f4e011e9b55747c68d5934d59c\transformed\activity-compose-1.8.0\res
+com.tcc.librasil.app-core-ktx-1.12.0-16 C:\Users\leome\.gradle\caches\transforms-3\453e95d6e40872a75d4b63ca995a9483\transformed\core-ktx-1.12.0\res
+com.tcc.librasil.app-appcompat-resources-1.6.1-17 C:\Users\leome\.gradle\caches\transforms-3\487e0d27bcc7283d80dafc51dfbfc768\transformed\appcompat-resources-1.6.1\res
+com.tcc.librasil.app-ui-release-18 C:\Users\leome\.gradle\caches\transforms-3\49273fb4e15b05eda017decd6dd5ecf4\transformed\ui-release\res
+com.tcc.librasil.app-ui-graphics-release-19 C:\Users\leome\.gradle\caches\transforms-3\57103d32e8ff4556105d410019540a59\transformed\ui-graphics-release\res
+com.tcc.librasil.app-lifecycle-process-2.6.2-20 C:\Users\leome\.gradle\caches\transforms-3\577a5386e4ab5584816d8c53b0c9938d\transformed\lifecycle-process-2.6.2\res
+com.tcc.librasil.app-lifecycle-livedata-core-2.6.2-21 C:\Users\leome\.gradle\caches\transforms-3\5bb2828d7e21cc6852ad1316d4b138c2\transformed\lifecycle-livedata-core-2.6.2\res
+com.tcc.librasil.app-material3-1.1.2-22 C:\Users\leome\.gradle\caches\transforms-3\63242403c52e913404871292fe5164be\transformed\material3-1.1.2\res
+com.tcc.librasil.app-animation-release-23 C:\Users\leome\.gradle\caches\transforms-3\63817ca82b7fb68e8d8a1f93c50de9d3\transformed\animation-release\res
+com.tcc.librasil.app-runtime-release-24 C:\Users\leome\.gradle\caches\transforms-3\6efa4b9122039bf847db28b25558c2a9\transformed\runtime-release\res
+com.tcc.librasil.app-runtime-saveable-release-25 C:\Users\leome\.gradle\caches\transforms-3\7005005611d8b1572533b8aa238923ed\transformed\runtime-saveable-release\res
+com.tcc.librasil.app-camera-camera2-1.3.0-26 C:\Users\leome\.gradle\caches\transforms-3\71cdc3628b4d32fce1d3d73c8a95fe90\transformed\camera-camera2-1.3.0\res
+com.tcc.librasil.app-ui-tooling-data-release-27 C:\Users\leome\.gradle\caches\transforms-3\71f6f5905c80f0f7d5cb46d6d9929112\transformed\ui-tooling-data-release\res
+com.tcc.librasil.app-lifecycle-viewmodel-compose-2.6.2-28 C:\Users\leome\.gradle\caches\transforms-3\73e5cbb7ef2de136cb996d8870dab42f\transformed\lifecycle-viewmodel-compose-2.6.2\res
+com.tcc.librasil.app-ui-util-release-29 C:\Users\leome\.gradle\caches\transforms-3\75c55f5e85abf73f1b979ba0184799de\transformed\ui-util-release\res
+com.tcc.librasil.app-customview-poolingcontainer-1.0.0-30 C:\Users\leome\.gradle\caches\transforms-3\772e30cf0891e6686e25b1057c1b9adb\transformed\customview-poolingcontainer-1.0.0\res
+com.tcc.librasil.app-foundation-layout-release-31 C:\Users\leome\.gradle\caches\transforms-3\776b79fd45f3afd490592c1a0a420e56\transformed\foundation-layout-release\res
+com.tcc.librasil.app-navigation-compose-2.7.5-32 C:\Users\leome\.gradle\caches\transforms-3\7ae5ce68e1274f4b4332b572b2959831\transformed\navigation-compose-2.7.5\res
+com.tcc.librasil.app-emoji2-1.4.0-33 C:\Users\leome\.gradle\caches\transforms-3\7b79210040075e53066706055993a835\transformed\emoji2-1.4.0\res
+com.tcc.librasil.app-annotation-experimental-1.3.1-34 C:\Users\leome\.gradle\caches\transforms-3\8347a81b307813e3d7f945b05731d65b\transformed\annotation-experimental-1.3.1\res
+com.tcc.librasil.app-ui-unit-release-35 C:\Users\leome\.gradle\caches\transforms-3\86cc5c317024c027b6611d865499ea49\transformed\ui-unit-release\res
+com.tcc.librasil.app-lifecycle-runtime-2.6.2-36 C:\Users\leome\.gradle\caches\transforms-3\8b1bcf9f3ce42f600e03f972186600b3\transformed\lifecycle-runtime-2.6.2\res
+com.tcc.librasil.app-savedstate-ktx-1.2.1-37 C:\Users\leome\.gradle\caches\transforms-3\9e132e682d23db993be1ee04c5493cba\transformed\savedstate-ktx-1.2.1\res
+com.tcc.librasil.app-startup-runtime-1.1.1-38 C:\Users\leome\.gradle\caches\transforms-3\aec814fb09f2c7ec89f3fa278e58b53e\transformed\startup-runtime-1.1.1\res
+com.tcc.librasil.app-savedstate-1.2.1-39 C:\Users\leome\.gradle\caches\transforms-3\af6e6591329a1dcc3cabc512175674e9\transformed\savedstate-1.2.1\res
+com.tcc.librasil.app-emoji2-views-helper-1.4.0-40 C:\Users\leome\.gradle\caches\transforms-3\b4e9453e6b90896459d920ba0fd4b252\transformed\emoji2-views-helper-1.4.0\res
+com.tcc.librasil.app-ui-test-manifest-1.5.4-41 C:\Users\leome\.gradle\caches\transforms-3\b53140e66b409b48ca919f449441c23f\transformed\ui-test-manifest-1.5.4\res
+com.tcc.librasil.app-camera-core-1.3.0-42 C:\Users\leome\.gradle\caches\transforms-3\b8a327f8907d528c8b6769ba74203b0d\transformed\camera-core-1.3.0\res
+com.tcc.librasil.app-lifecycle-viewmodel-ktx-2.6.2-43 C:\Users\leome\.gradle\caches\transforms-3\b9a2906180c7c1d74b755e56939b6f5e\transformed\lifecycle-viewmodel-ktx-2.6.2\res
+com.tcc.librasil.app-navigation-runtime-2.7.5-44 C:\Users\leome\.gradle\caches\transforms-3\bbf555dc7e2f987501c84f612ba852a6\transformed\navigation-runtime-2.7.5\res
+com.tcc.librasil.app-navigation-common-2.7.5-45 C:\Users\leome\.gradle\caches\transforms-3\c51751305c8674652fc6a8d0f96bd250\transformed\navigation-common-2.7.5\res
+com.tcc.librasil.app-ui-tooling-preview-release-46 C:\Users\leome\.gradle\caches\transforms-3\cd647a68b0a9a0b88808932f7918ca18\transformed\ui-tooling-preview-release\res
+com.tcc.librasil.app-webkit-1.8.0-47 C:\Users\leome\.gradle\caches\transforms-3\d0fe24d61a076341d21dc0367c3621c2\transformed\webkit-1.8.0\res
+com.tcc.librasil.app-activity-1.8.0-48 C:\Users\leome\.gradle\caches\transforms-3\d123a24d2390059b1c97ae49d3904b5f\transformed\activity-1.8.0\res
+com.tcc.librasil.app-core-runtime-2.2.0-49 C:\Users\leome\.gradle\caches\transforms-3\d62ba568c2b6914dd2c3fa488b721b72\transformed\core-runtime-2.2.0\res
+com.tcc.librasil.app-lifecycle-viewmodel-2.6.2-50 C:\Users\leome\.gradle\caches\transforms-3\e1bc2938505769b2fb9b525f588d6833\transformed\lifecycle-viewmodel-2.6.2\res
+com.tcc.librasil.app-camera-lifecycle-1.3.0-51 C:\Users\leome\.gradle\caches\transforms-3\e736c1ac5203c5d869fdf16402649847\transformed\camera-lifecycle-1.3.0\res
+com.tcc.librasil.app-ui-geometry-release-52 C:\Users\leome\.gradle\caches\transforms-3\f54e270ac1328c7b1cbca7b3efac01b5\transformed\ui-geometry-release\res
+com.tcc.librasil.app-lifecycle-livedata-2.6.2-53 C:\Users\leome\.gradle\caches\transforms-3\f706bc00042b98f0826b1c94bf0c8951\transformed\lifecycle-livedata-2.6.2\res
+com.tcc.librasil.app-camera-view-1.3.0-54 C:\Users\leome\.gradle\caches\transforms-3\f814a0910afe94e0656e627e439c0fdf\transformed\camera-view-1.3.0\res
+com.tcc.librasil.app-appcompat-1.6.1-55 C:\Users\leome\.gradle\caches\transforms-3\f89f8f80bfecdd73ec8e91672eb3427e\transformed\appcompat-1.6.1\res
+com.tcc.librasil.app-profileinstaller-1.3.1-56 C:\Users\leome\.gradle\caches\transforms-3\fab2a681fb859174d77f0e518b6656e2\transformed\profileinstaller-1.3.1\res
+com.tcc.librasil.app-navigation-common-ktx-2.7.5-57 C:\Users\leome\.gradle\caches\transforms-3\fc16558457d168f1cb6aa12698b4de34\transformed\navigation-common-ktx-2.7.5\res
+com.tcc.librasil.app-fragment-1.3.6-58 C:\Users\leome\.gradle\caches\transforms-3\fecfe8c444582adf6c67c14d34afc5e0\transformed\fragment-1.3.6\res
+com.tcc.librasil.app-resValues-59 D:\faculdade_v2\03 - projeto_final\Librasil_FINAL_COMPLETO\Librasil\app\build\generated\res\resValues\debug
+com.tcc.librasil.app-packageDebugResources-60 D:\faculdade_v2\03 - projeto_final\Librasil_FINAL_COMPLETO\Librasil\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.tcc.librasil.app-packageDebugResources-61 D:\faculdade_v2\03 - projeto_final\Librasil_FINAL_COMPLETO\Librasil\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.tcc.librasil.app-merged_res-62 D:\faculdade_v2\03 - projeto_final\Librasil_FINAL_COMPLETO\Librasil\app\build\intermediates\merged_res\debug
+com.tcc.librasil.app-debug-63 D:\faculdade_v2\03 - projeto_final\Librasil_FINAL_COMPLETO\Librasil\app\src\debug\res
+com.tcc.librasil.app-main-64 D:\faculdade_v2\03 - projeto_final\Librasil_FINAL_COMPLETO\Librasil\app\src\main\res

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="coral">#DA8F72</color>
+    <color name="gray_dark">#666666</color>
+    <color name="gray_light">#F5F5F5</color>
+    <color name="gray_medium">#CCCCCC</color>
+    <color name="green_aqua">#8ACBB5</color>
+    <color name="green_light">#C9DAA4</color>
+    <color name="md_theme_light_background">#FFFBFF</color>
+    <color name="md_theme_light_onBackground">#1C1B1E</color>
+    <color name="md_theme_light_onPrimary">#FFFFFF</color>
+    <color name="md_theme_light_onSecondary">#FFFFFF</color>
+    <color name="md_theme_light_onSurface">#1C1B1E</color>
+    <color name="md_theme_light_primary">#E6546B</color>
+    <color name="md_theme_light_secondary">#8ACBB5</color>
+    <color name="md_theme_light_surface">#FFFBFF</color>
+    <color name="pink_primary">#E6546B</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="yellow_light">#FFE792</color>
+    <string name="app_name">Librasil</string>
+    <string name="app_subtitle">Um app de acessibilidade e inclusão social</string>
+    <string name="back">Voltar</string>
+    <string name="btn_capture">Capturar</string>
+    <string name="btn_speak_audio">Falar o texto em áudio</string>
+    <string name="btn_translate">Traduzir</string>
+    <string name="btn_translate_libras">Transcrever Libras</string>
+    <string name="btn_translate_portuguese">Transcrever Português</string>
+    <string name="error_generic">Ocorreu um erro. Tente novamente.</string>
+    <string name="error_network">Erro de conexão. Verifique sua internet.</string>
+    <string name="gesture_placeholder">Aguardando captura...</string>
+    <string name="gesture_result_label">Resultado:</string>
+    <string name="gesture_title">Faça o seu gesto!</string>
+    <string name="info">Informações</string>
+    <string name="info_description">O Librasil é um aplicativo de acessibilidade que permite a comunicação entre pessoas surdas e ouvintes através da tradução de Libras para texto e de texto/fala para Libras.</string>
+    <string name="info_gesture_desc">Transcrever Libras</string>
+    <string name="info_gesture_title">Faça o seu gesto</string>
+    <string name="info_learn_desc">Funcionalidade educacional</string>
+    <string name="info_learn_title">Aprenda Libras</string>
+    <string name="info_library_desc">Biblioteca de gestos</string>
+    <string name="info_library_title">Busque termos e sinais</string>
+    <string name="info_text_desc">Transcrever Português</string>
+    <string name="info_text_title">Fale ou digite seu texto</string>
+    <string name="info_title">Sobre o Librasil</string>
+    <string name="library_title">Biblioteca de gestos</string>
+    <string name="main_title">LIBRASIL</string>
+    <string name="permission_audio_required">Permissão de áudio necessária</string>
+    <string name="permission_camera_required">Permissão de câmera necessária</string>
+    <string name="search_hint">Buscar gesto...</string>
+    <string name="text_input_hint">Digite ou fale o texto aqui...</string>
+    <string name="text_to_libras_title">Transcrição Libras</string>
+    <string name="translation_loading">Traduzindo...</string>
+    <style name="Theme.Librasil" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/pink_primary</item>
+    </style>
+</resources>

@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "com.tcc.librasil.app-merged_res-63:/drawable_libras_letter_u.png.flat",
+        "source": "com.tcc.librasil.app-main-65:/drawable/libras_letter_u.png"
+    },
+    {
+        "merged": "com.tcc.librasil.app-merged_res-63:/drawable_libras_letter_d.png.flat",
+        "source": "com.tcc.librasil.app-main-65:/drawable/libras_letter_d.png"
+    },
+    {
+        "merged": "com.tcc.librasil.app-merged_res-63:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.tcc.librasil.app-main-65:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.tcc.librasil.app-merged_res-63:/drawable_libras_letter_m.png.flat",
+        "source": "com.tcc.librasil.app-main-65:/drawable/libras_letter_m.png"
+    },
+    {
+        "merged": "com.tcc.librasil.app-merged_res-63:/drawable_libras_letter_c.png.flat",
+        "source": "com.tcc.librasil.app-main-65:/drawable/libras_letter_c.png"
+    },
+    {
+        "merged": "com.tcc.librasil.app-merged_res-63:/font_jaro_regular.ttf.flat",
+        "source": "com.tcc.librasil.app-main-65:/font/jaro_regular.ttf"
+    },
+    {
+        "merged": "com.tcc.librasil.app-merged_res-63:/drawable_libras_letter_e.png.flat",
+        "source": "com.tcc.librasil.app-main-65:/drawable/libras_letter_e.png"
+    },
+    {
+        "merged": "com.tcc.librasil.app-merged_res-63:/drawable_libras_letter_v.png.flat",
+        "source": "com.tcc.librasil.app-main-65:/drawable/libras_letter_v.png"
+    },
+    {
+        "merged": "com.tcc.librasil.app-merged_res-63:/drawable_libras_letter_s.png.flat",
+        "source": "com.tcc.librasil.app-main-65:/drawable/libras_letter_s.png"
+    },
+    {
+        "merged": "com.tcc.librasil.app-merged_res-63:/drawable_libras_letter_b.png.flat",
+        "source": "com.tcc.librasil.app-main-65:/drawable/libras_letter_b.png"
+    },
+    {
+        "merged": "com.tcc.librasil.app-merged_res-63:/drawable_libras_letter_w.png.flat",
+        "source": "com.tcc.librasil.app-main-65:/drawable/libras_letter_w.png"
+    },
+    {
+        "merged": "com.tcc.librasil.app-merged_res-63:/drawable_libras_letter_r.png.flat",
+        "source": "com.tcc.librasil.app-main-65:/drawable/libras_letter_r.png"
+    },
+    {
+        "merged": "com.tcc.librasil.app-merged_res-63:/drawable_libras_letter_a.png.flat",
+        "source": "com.tcc.librasil.app-main-65:/drawable/libras_letter_a.png"
+    },
+    {
+        "merged": "com.tcc.librasil.app-merged_res-63:/drawable_libras_letter_l.png.flat",
+        "source": "com.tcc.librasil.app-main-65:/drawable/libras_letter_l.png"
+    },
+    {
+        "merged": "com.tcc.librasil.app-merged_res-63:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.tcc.librasil.app-main-65:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.tcc.librasil.app-merged_res-63:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.tcc.librasil.app-main-65:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.tcc.librasil.app-merged_res-63:/xml_backup_rules.xml.flat",
+        "source": "com.tcc.librasil.app-main-65:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.tcc.librasil.app-merged_res-63:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.tcc.librasil.app-main-65:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.tcc.librasil.app-merged_res-63:/xml_data_extraction_rules.xml.flat",
+        "source": "com.tcc.librasil.app-main-65:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.tcc.librasil.app-merged_res-63:/drawable_libras_letter_n.png.flat",
+        "source": "com.tcc.librasil.app-main-65:/drawable/libras_letter_n.png"
+    },
+    {
+        "merged": "com.tcc.librasil.app-merged_res-63:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.tcc.librasil.app-main-65:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.tcc.librasil.app-merged_res-63:/drawable_libras_letter_i.png.flat",
+        "source": "com.tcc.librasil.app-main-65:/drawable/libras_letter_i.png"
+    },
+    {
+        "merged": "com.tcc.librasil.app-merged_res-63:/drawable_libras_letter_o.png.flat",
+        "source": "com.tcc.librasil.app-main-65:/drawable/libras_letter_o.png"
+    }
+]

@@ -1,0 +1,35 @@
+com.tcc.librasil.test.app-lifecycle-runtime-ktx-2.6.2-0 C:\Users\leome\.gradle\caches\transforms-3\0d5231eb255f98e4e5a1cd05a642803c\transformed\lifecycle-runtime-ktx-2.6.2\res
+com.tcc.librasil.test.app-ui-text-release-1 C:\Users\leome\.gradle\caches\transforms-3\2182f090c28de95244cfff81d0770e75\transformed\ui-text-release\res
+com.tcc.librasil.test.app-core-1.5.0-2 C:\Users\leome\.gradle\caches\transforms-3\22a40d80516cbcc612f30227c1ab7a11\transformed\core-1.5.0\res
+com.tcc.librasil.test.app-core-1.12.0-3 C:\Users\leome\.gradle\caches\transforms-3\237491ebb933e1009380b0f06a3ea463\transformed\core-1.12.0\res
+com.tcc.librasil.test.app-lifecycle-viewmodel-savedstate-2.6.2-4 C:\Users\leome\.gradle\caches\transforms-3\254846036fcfb6ef67856c8252fc3f19\transformed\lifecycle-viewmodel-savedstate-2.6.2\res
+com.tcc.librasil.test.app-activity-ktx-1.8.0-5 C:\Users\leome\.gradle\caches\transforms-3\25c7db530945f4af676d377cf9fb8447\transformed\activity-ktx-1.8.0\res
+com.tcc.librasil.test.app-activity-compose-1.8.0-6 C:\Users\leome\.gradle\caches\transforms-3\447d15f4e011e9b55747c68d5934d59c\transformed\activity-compose-1.8.0\res
+com.tcc.librasil.test.app-core-ktx-1.12.0-7 C:\Users\leome\.gradle\caches\transforms-3\453e95d6e40872a75d4b63ca995a9483\transformed\core-ktx-1.12.0\res
+com.tcc.librasil.test.app-ui-release-8 C:\Users\leome\.gradle\caches\transforms-3\49273fb4e15b05eda017decd6dd5ecf4\transformed\ui-release\res
+com.tcc.librasil.test.app-ui-graphics-release-9 C:\Users\leome\.gradle\caches\transforms-3\57103d32e8ff4556105d410019540a59\transformed\ui-graphics-release\res
+com.tcc.librasil.test.app-lifecycle-process-2.6.2-10 C:\Users\leome\.gradle\caches\transforms-3\577a5386e4ab5584816d8c53b0c9938d\transformed\lifecycle-process-2.6.2\res
+com.tcc.librasil.test.app-lifecycle-livedata-core-2.6.2-11 C:\Users\leome\.gradle\caches\transforms-3\5bb2828d7e21cc6852ad1316d4b138c2\transformed\lifecycle-livedata-core-2.6.2\res
+com.tcc.librasil.test.app-runtime-release-12 C:\Users\leome\.gradle\caches\transforms-3\6efa4b9122039bf847db28b25558c2a9\transformed\runtime-release\res
+com.tcc.librasil.test.app-runtime-saveable-release-13 C:\Users\leome\.gradle\caches\transforms-3\7005005611d8b1572533b8aa238923ed\transformed\runtime-saveable-release\res
+com.tcc.librasil.test.app-ui-util-release-14 C:\Users\leome\.gradle\caches\transforms-3\75c55f5e85abf73f1b979ba0184799de\transformed\ui-util-release\res
+com.tcc.librasil.test.app-customview-poolingcontainer-1.0.0-15 C:\Users\leome\.gradle\caches\transforms-3\772e30cf0891e6686e25b1057c1b9adb\transformed\customview-poolingcontainer-1.0.0\res
+com.tcc.librasil.test.app-emoji2-1.4.0-16 C:\Users\leome\.gradle\caches\transforms-3\7b79210040075e53066706055993a835\transformed\emoji2-1.4.0\res
+com.tcc.librasil.test.app-annotation-experimental-1.3.1-17 C:\Users\leome\.gradle\caches\transforms-3\8347a81b307813e3d7f945b05731d65b\transformed\annotation-experimental-1.3.1\res
+com.tcc.librasil.test.app-ui-unit-release-18 C:\Users\leome\.gradle\caches\transforms-3\86cc5c317024c027b6611d865499ea49\transformed\ui-unit-release\res
+com.tcc.librasil.test.app-lifecycle-runtime-2.6.2-19 C:\Users\leome\.gradle\caches\transforms-3\8b1bcf9f3ce42f600e03f972186600b3\transformed\lifecycle-runtime-2.6.2\res
+com.tcc.librasil.test.app-savedstate-ktx-1.2.1-20 C:\Users\leome\.gradle\caches\transforms-3\9e132e682d23db993be1ee04c5493cba\transformed\savedstate-ktx-1.2.1\res
+com.tcc.librasil.test.app-startup-runtime-1.1.1-21 C:\Users\leome\.gradle\caches\transforms-3\aec814fb09f2c7ec89f3fa278e58b53e\transformed\startup-runtime-1.1.1\res
+com.tcc.librasil.test.app-savedstate-1.2.1-22 C:\Users\leome\.gradle\caches\transforms-3\af6e6591329a1dcc3cabc512175674e9\transformed\savedstate-1.2.1\res
+com.tcc.librasil.test.app-lifecycle-viewmodel-ktx-2.6.2-23 C:\Users\leome\.gradle\caches\transforms-3\b9a2906180c7c1d74b755e56939b6f5e\transformed\lifecycle-viewmodel-ktx-2.6.2\res
+com.tcc.librasil.test.app-ui-test-release-24 C:\Users\leome\.gradle\caches\transforms-3\bbc7f4b8735b2c4c3c2a862e9cba1beb\transformed\ui-test-release\res
+com.tcc.librasil.test.app-activity-1.8.0-25 C:\Users\leome\.gradle\caches\transforms-3\d123a24d2390059b1c97ae49d3904b5f\transformed\activity-1.8.0\res
+com.tcc.librasil.test.app-core-runtime-2.2.0-26 C:\Users\leome\.gradle\caches\transforms-3\d62ba568c2b6914dd2c3fa488b721b72\transformed\core-runtime-2.2.0\res
+com.tcc.librasil.test.app-lifecycle-viewmodel-2.6.2-27 C:\Users\leome\.gradle\caches\transforms-3\e1bc2938505769b2fb9b525f588d6833\transformed\lifecycle-viewmodel-2.6.2\res
+com.tcc.librasil.test.app-ui-test-junit4-release-28 C:\Users\leome\.gradle\caches\transforms-3\f054c76c16e2eb596f2df26022c864d9\transformed\ui-test-junit4-release\res
+com.tcc.librasil.test.app-ui-geometry-release-29 C:\Users\leome\.gradle\caches\transforms-3\f54e270ac1328c7b1cbca7b3efac01b5\transformed\ui-geometry-release\res
+com.tcc.librasil.test.app-profileinstaller-1.3.1-30 C:\Users\leome\.gradle\caches\transforms-3\fab2a681fb859174d77f0e518b6656e2\transformed\profileinstaller-1.3.1\res
+com.tcc.librasil.test.app-androidTest-31 D:\faculdade_v2\03 - projeto_final\Librasil_FINAL_COMPLETO\Librasil\app\build\generated\res\resValues\androidTest\debug
+com.tcc.librasil.test.app-mergeDebugAndroidTestResources-32 D:\faculdade_v2\03 - projeto_final\Librasil_FINAL_COMPLETO\Librasil\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.tcc.librasil.test.app-mergeDebugAndroidTestResources-33 D:\faculdade_v2\03 - projeto_final\Librasil_FINAL_COMPLETO\Librasil\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.tcc.librasil.test.app-merged_res-34 D:\faculdade_v2\03 - projeto_final\Librasil_FINAL_COMPLETO\Librasil\app\build\intermediates\merged_res\debugAndroidTest
